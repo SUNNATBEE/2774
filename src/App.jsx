@@ -3,7 +3,7 @@ import React from 'react'
 const App = () => {
   return (
     <div>
-      <button>Ozgiznga</button>
+      <button className='btn btn-active'>Ozgiznga</button>
     </div>
   )
 }
